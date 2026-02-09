@@ -112,4 +112,3 @@ Te quedaste sin vidas.""")
 ¡Encontraste la palabra!
 """)
         print(f"La palabra era :{mostrar_lista(palabra_incognita)}\n") 
-jugar()
